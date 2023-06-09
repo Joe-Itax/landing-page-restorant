@@ -151,6 +151,10 @@ h3 {
 }
 
 @media(max-width: 575px) {
+  h1 {
+    padding: 3.5rem .5rem 2rem .5rem;
+  }
+  
   article {
     padding: 30px 10px;
     width: 30rem;

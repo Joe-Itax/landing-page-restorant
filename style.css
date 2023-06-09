@@ -114,6 +114,11 @@ article {
   border-radius: 5px;
 }
 
+article:hover {
+  transform: scale(1.05);
+  transition: transform .5s;
+}
+
 img {
   max-width: 3.7rem;
   margin: 1rem;
